@@ -1,1 +1,1 @@
-# K-Means-Cluster-Python
+This repo has code for K Means cluster using Python
