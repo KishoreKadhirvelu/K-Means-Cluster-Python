@@ -1,1 +1,1 @@
-This repo has code for K Means cluster using Python
+This repo has code for some of the Machine Learning Algorithms using Python
